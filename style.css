@@ -1,0 +1,103 @@
+
+h1 {
+    color: tomato;
+    font-family:'Nanum Gothic', sans-serif;
+}
+h2 {
+    font-family:'Nanum Gothic', sans-serif;
+}
+
+
+#date1 {
+    color:lightgray;
+    margin-top: 4rem;
+    margin-bottom: -1rem;
+}
+
+#Streets {
+    color:black;
+    font-size:2em;
+}
+#Vogue {
+    color:black;
+    font-size:2em;
+
+}
+#date2 {color:lightgray;
+    margin-top: 4rem;
+    margin-bottom: -1rem;
+}
+
+body {
+    min-height: 100vw;
+    max-width: 1000px;
+    margin: auto;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+html {
+    border-left: 5px solid lightgray;
+}
+footer{
+    color:tomato;
+    display:inline;
+}
+header main footer{
+    padding:1rem 2rem;
+}
+img{
+    width:100%;
+}
+article { 
+    color:lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:0px 0px 0px 0px;
+}
+
+.continue {
+  padding:0px 0px 0px 0px;
+  margin:0px 0px 0px 900px;
+  color: tomato;
+}
+.first{
+    margin-bottom: 4rem;
+    padding-bottom: 2rem;
+    
+}
+.second {
+    margin-top: -4rem;
+    margin-bottom: 4rem;
+    border-top: lightgray solid;
+    border-bottom: lightgray solid;
+    padding-bottom: 2rem;
+}
+div {
+    color:lightgray;
+    padding: 10px 0px 100px 0px;
+}
+
+.small {font-size:15px;
+    border-right:1px solid lightgray;
+    padding-right: 7px;
+    white-space:nowrap;
+}
+.home {padding:50px;}
+
+li a {
+    color:tomato;}
+nav ul.space {
+        padding:0;
+        Display:flex;
+        justify-content: space-between;
+        list-style-type: none;
+        font-size: 1.75em;
+        white-space:nowrap;       
+    }
+#grey {color:lightgrey;
+}
+nav ul.right {
+    padding:0px;
+    justify-content: left;
+    display:inline-flex;
+    list-style-type: none;
+    box-sizing: border-box;
+}
